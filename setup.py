@@ -12,13 +12,13 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
-    version='0.1.0',
+    name='war_card_game',
+    version='1.0.0',
     description='Sample package for Python-Guide.org',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Antonio Martín',
+    author_email='amartinescalera@gmail.com',
+    url='https://github.com/amartinescalera/WarCardName',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )

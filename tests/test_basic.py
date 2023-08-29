@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from .context import sample
+from .context import war_card_game
 
 import unittest
 
